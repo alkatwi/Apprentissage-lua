@@ -1,2 +1,0 @@
--- Concaténation
-print("test" + "allo")
