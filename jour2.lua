@@ -1,0 +1,2 @@
+-- Concaténation
+print("test" + "allo")
