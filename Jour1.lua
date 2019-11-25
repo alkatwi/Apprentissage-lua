@@ -1,1 +1,2 @@
--- tmax
+-- variable
+variable = "caca"
